@@ -59,7 +59,7 @@ function App() {
       <header className="cabecalho">
         <h1>VIO WEB</h1>
         <p>Venda de Ingressos Online</p>
-        <p className="aluno">Cauã Martins — Turma DSM-4</p>
+        <p className="aluno">Cauã Henrique Nascimento Martins — Turma DSM-4</p>
       </header>
 
       <main className="conteudo">
